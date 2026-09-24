@@ -1,6 +1,4 @@
-# =========================
-# COVID-19 Dataset
-# =========================
+
 
 # Ignore raw dataset
 data/raw/covid_data.csv
@@ -24,8 +22,3 @@ __pycache__/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
-
-# Virtual environment
-.venv/
-venv/
-env/
